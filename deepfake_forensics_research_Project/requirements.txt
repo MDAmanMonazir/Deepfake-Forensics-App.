@@ -1,0 +1,10 @@
+streamlit>=1.30.0
+numpy
+matplotlib
+seaborn
+opencv-python-headless
+scipy
+torch
+torchvision
+scikit-learn
+Pillow
