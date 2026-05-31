@@ -1,5 +1,7 @@
 # 🛡️ Media Forensics & Deepfake Detection Suite
 
+Live Link - https://deepfake-forensics-appgit-f9yfpvjwu5uinhvwlaredo.streamlit.app/
+
 Advanced digital image forensics and deep learning classification application for detecting synthetic media and deepfakes using the MesoNet neural network architecture.
 
 ## Features
